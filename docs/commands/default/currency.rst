@@ -1,4 +1,4 @@
-!currency
+!poeni
 =========
 
 **Default Permission:** Everyone
@@ -6,10 +6,10 @@
 Receive a DM telling your how much currency you have
 
 Usage:
-    !currency
+    !poeni
 
 Example:
     ::
 
-        user:     !currency
-        botisimo: Currency: 850
+        user:     !poeni
+        botisimo: Poeni: 850
